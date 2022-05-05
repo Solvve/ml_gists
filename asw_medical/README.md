@@ -20,7 +20,7 @@ Fields and drop lists:
 * Access ID - AWS id 
 * Secret Key - AWS key
 * Language - list of languages (now available only english)
-* Speciality - list of available medical domains
+* Speciality - list of available medical domains (Primary Care, Cardiology, Neurology, Oncology, Radiology, Urology)
 * Type - dictation types (choose Dictation type to check quality)
 
 ### Quality
