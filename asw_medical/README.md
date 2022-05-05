@@ -1,5 +1,7 @@
 ## Info
-Automatic Speech Recognition on AWS for medical domain (web).
+Automatic Speech Recognition on AWS for medical domain.
+
+https://user-images.githubusercontent.com/75725664/166889996-97d1a2d9-d3b5-4b3f-a894-08f86bf5859c.mp4
 
 ### 1. Installation and run
 ```
