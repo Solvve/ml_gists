@@ -6,4 +6,4 @@ The notebook provides a code that removes watermarks from the images. It uses an
 
 ![Original image](https://github.com/Solvve/ml_gists/blob/master/WatermarkRemoval/image_mark.jpeg)
 
-![Processed image](https://github.com/Solvve/ml_gists/blob/master/WatermarkRemoval/image_mark.jpeg)
+![Processed image](https://github.com/Solvve/ml_gists/blob/master/WatermarkRemoval/image_clean.jpeg)
